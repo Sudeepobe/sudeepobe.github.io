@@ -2,4 +2,4 @@ title: "Sudeep Pokheral"
 description: "ACCA Student | Accountant | Sharing my journey"
 theme: minima
 plugins:
-  -jekyll-feed
+  - jekyll-feed
